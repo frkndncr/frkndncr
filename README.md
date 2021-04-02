@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-<!--
-**B3zkurt/b3zkurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2014'ten Beri Sosyal Medyadayım 2018'de Siber Güvenlik / Yazılım / Web Alanlarına Geçtim. 
 
-Here are some ideas to get you started:
+Siber Güvenlik Alanında 18 Sertifikaya Sahibim.
 
-Pentest & Bug Bounty 
-- 👯 I’m looking to collaborate on ...
-İnstagram: @b3zkurt  Sorularınızı Sorabilirsiniz.
-- 💬 Ask me about ...
-İnstagram: @b3zkurt
-- 📫 How to reach me: ...
+Siber Güvenlik Uzmanıyım & Sosyal Medya Uzmanıyım.
+
+İletişim Adreslerim:
+
+İnstagram: https://instagram.com/b3zkurt/ 
+Web Site: https://bozkurthub.blogspot.com/
+Youtube Kanalı: https://www.youtube.com/channel/UCGjuanRklS0SOVGSfoAIc6A
+Github: https://github.com/b3zkurt
