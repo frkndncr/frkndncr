@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-2014'ten Beri Sosyal Medyadayım 2018'de Siber Güvenlik / Yazılım / Web Alanlarına Geçtim. 
+I have been on Social Media since 2014, I switched to Cyber Security / Software / Web Domains in 2018.
 
-Siber Güvenlik Alanında 18 Sertifikaya Sahibim.
+I have 18 Certificates in Cyber Security.
 
-Siber Güvenlik Uzmanıyım & Sosyal Medya Uzmanıyım.
+I am a Cyber ​​Security Specialist and I am a Social Media Specialist.
 
-İletişim Adreslerim:
+my social media accounts: 
 
 İnstagram: https://instagram.com/b3zkurt/ 
 
