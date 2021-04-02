@@ -9,6 +9,9 @@ Siber Güvenlik Uzmanıyım & Sosyal Medya Uzmanıyım.
 İletişim Adreslerim:
 
 İnstagram: https://instagram.com/b3zkurt/ 
+
 Web Site: https://bozkurthub.blogspot.com/
+
 Youtube Kanalı: https://www.youtube.com/channel/UCGjuanRklS0SOVGSfoAIc6A
+
 Github: https://github.com/b3zkurt
