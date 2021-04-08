@@ -4,7 +4,7 @@ I have been on Social Media since 2014, I switched to Cyber Security / Software 
 
 I have 18 Certificates in Cyber Security.
 
-I am a Cyber ​​Security Specialist and I am a Social Media Specialist.
+Cyber Security Specialist and I am a Social Media Specialist.
 
 my social media accounts: 
 
