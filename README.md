@@ -12,6 +12,6 @@ my social media accounts:
 
 Web Site: https://bozkurthub.blogspot.com/
 
-Youtube Kanalı: https://www.youtube.com/channel/UCGjuanRklS0SOVGSfoAIc6A
+Youtube: https://www.youtube.com/channel/UCGjuanRklS0SOVGSfoAIc6A
 
 Github: https://github.com/b3zkurt
