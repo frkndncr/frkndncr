@@ -16,4 +16,4 @@ Youtube: https://www.youtube.com/channel/UCGjuanRklS0SOVGSfoAIc6A
 
 Github: https://github.com/b3zkurt
 
-Discord: https://discord.gg/xrgjc3feMV
+Discord: https://discord.gg/xddcfGXAa9
