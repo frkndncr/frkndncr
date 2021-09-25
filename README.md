@@ -2,7 +2,7 @@
 
 I have been on Social Media since 2014, I switched to Cyber Security / Software / Web Domains in 2018.
 
-I have 18 Certificates in Cyber Security.
+I have 19 certificates in cyber security
 
 Cyber Security Specialist and I am a Social Media Specialist.
 
