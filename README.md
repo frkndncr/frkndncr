@@ -4,7 +4,7 @@ I have 20 ertificates in cyber security
 
 Cyber Security Specialist and I am a Social Media Specialist.
 
-my social media accounts: 
+My social media accounts: 
 
 İnstagram: https://instagram.com/b3zkurt/ 
 
