@@ -8,4 +8,4 @@ Web Site: https://f3rkan.github.io/
 
 Youtube: https://www.youtube.com/channel/UCGjuanRklS0SOVGSfoAIc6A
 
-Github: https://github.com/b3zkurt
+Github: https://github.com/frkndncr
