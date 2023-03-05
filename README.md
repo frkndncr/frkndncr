@@ -6,6 +6,6 @@ My social media accounts:
 
 Web Site: https://f3rkan.github.io/
 
-Youtube: https://www.youtube.com/channel/UCGjuanRklS0SOVGSfoAIc6A
+Youtube: https://www.youtube.com/@frkndncr
 
 Github: https://github.com/frkndncr
