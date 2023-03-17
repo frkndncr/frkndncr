@@ -4,7 +4,7 @@ My social media accounts:
 
 İnstagram: https://instagram.com/f3rrkan/ 
 
-Web Site: https://f3rkan.github.io/
+Web Site: https://frkndncr.github.io/
 
 Youtube: https://www.youtube.com/@frkndncr
 
