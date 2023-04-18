@@ -9,3 +9,7 @@ Web Site: https://frkndncr.github.io/
 Youtube: https://www.youtube.com/@frkndncr
 
 Github: https://github.com/frkndncr
+
+Linkedin: https://www.linkedin.com/in/furkan-dincer/
+
+Tryhackme: https://tryhackme.com/p/frkndncr
