@@ -14,9 +14,9 @@ Network basics (LAN/WAN, DNS, DHCP, VPN)
 Linux & Python tooling for daily ops  
 Small backend work when needed (PHP / C#)
 
-📌 **Portfolio:** https://c4softwarestudio.com/
-🔗 **LinkedIn:** https://linkedin.com/in/furkan-dincer/
-✍️ **Medium:** https://medium.com/@frkndncr/
+<a href="https://c4softwarestudio.com" target="_blank"> 📌 Portfolio</a> • 
+<a href="https://linkedin.com/in/furkan-dincer" target="_blank">🔗 LinkedIn</a> • 
+<a href="https://medium.com/@frkndncr" target="_blank">✍️ Medium</a>
 
 ---
 
