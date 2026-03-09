@@ -5,7 +5,7 @@
 # **Furkan Dinçer**
 
 **Cybersecurity & Network Security**  
-* Linux • Python automation *
+* •Linux • Python automation*
 
 ---
 
