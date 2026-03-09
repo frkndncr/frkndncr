@@ -5,7 +5,7 @@
 # **Furkan Dinçer**
 
 **Cybersecurity & Network Security**  
-*A-SMGCS systems • Linux • Python automation*
+* Linux • Python automation *
 
 ---
 
