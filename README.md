@@ -2,11 +2,10 @@
 
 <img src="https://flagcdn.com/w40/tr.png" width="60" alt="Turkish Flag"/>
 
-# **Furkan Dinçer**
+# Furkan Dinçer
 
 **Cybersecurity & Network Security**  
-* •Linux • Python automation*
-
+Linux • Python Automation
 ---
 
 ### **🌍 About**
