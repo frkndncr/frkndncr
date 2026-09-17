@@ -20,25 +20,6 @@
 
 ---
 
-### ⚡ Executive Terminal Dossier
-
-```bash
-frkndncr@cyberops:~$ neofetch --profile
--------------------------------------------------------------------------------------------
-[+] OPERATOR       : Furkan Dinçer (@frkndncr)
-[+] DESIGNATION    : Offensive Security Tooling Engineer & Security Researcher
-[+] CORE DIRECTIVE : Automated Attack Surface Management (ASM) & Reconnaissance
-[+] SPECIALIZATION : Subdomain Takeovers, WAF Evasion, JS Taint-Flow, SSL/SAN Graphing
-[+] METHODOLOGIES  : MITRE ATT&CK Matrix, OWASP Web Top 10, OSINT Threat Modeling
-[+] ARCHITECTURE   : High-Concurrency Async Pipelines (Python, FastAPI, Docker, MySQL)
-[+] FLAGSHIP TOOL  : WebAnalyzer v3.6.4 (16-Module Autonomous Reconnaissance Suite)
-[+] PHILOSOPHY     : "If reconnaissance is fragmented, automate it into a unified chain."
-[+] SYSTEM STATUS  : [● ONLINE] Engineering next-generation autonomous threat frameworks
--------------------------------------------------------------------------------------------
-```
-
----
-
 ## 🛡️ Flagship Project: [WebAnalyzer](https://github.com/frkndncr/WebAnalyzer)
 
 <div align="center">
