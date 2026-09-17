@@ -5,44 +5,26 @@
 
 <!-- DİNAMİK YAZI ANİMASYONU -->
 <a href="https://github.com/frkndncr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Offensive+Security+Tooling+%26+Recon+Automation;Author+of+WebAnalyzer+(16-Module+Enterprise+Scanner);Automated+Attack-Path+Planner+%26+MITRE+ATT%26CK+Modeling;High-Concurrency+Async+Architecture+(FastAPI+%2B+React+19)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Cybersecurity+%26+Network+Security;Python+Automation+%26+Tooling;High-Concurrency+Backend+Systems;Continuous+Learning+%26+Open+Source" alt="Typing SVG" />
 </a>
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://c4softwarestudio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/furkan-dincer)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@frkndncr)
-[![Portfolio](https://img.shields.io/badge/Production_Platform-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://webanalyzer.c4softwarestudio.com)
-[![PyPI](https://img.shields.io/badge/PyPI_Package-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/webanalyzer-security/)
-[![Email](https://img.shields.io/badge/Security_Inquiries-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@c4softwarestudio.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/f3rrkan)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@frkndncr)
 
 </div>
 
 ---
 
-## 🛡️ Flagship Project: [WebAnalyzer](https://github.com/frkndncr/WebAnalyzer)
+## 🚀 Featured Project: [WebAnalyzer](https://github.com/frkndncr/WebAnalyzer)
 
-<div align="center">
-  <a href="https://github.com/frkndncr/WebAnalyzer">
-    <img src="https://img.shields.io/badge/Status-Live_Production-success?style=for-the-badge&logo=render" alt="Status"/>
-    <img src="https://img.shields.io/badge/Version-v3.6.4-blue?style=for-the-badge&logo=github" alt="Version"/>
-    <img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge" alt="License"/>
-  </a>
-</div>
+An open-source domain reconnaissance and vulnerability analysis platform built with Python (FastAPI) and React.
 
-<br/>
-
-> **An enterprise-grade, 16-module asynchronous domain reconnaissance, threat intelligence, and attack-path graphing platform.**
-
-* **5-Layer Deep Audit**: Passive OSINT, Active Fuzzing, JS Taint Tracking, SSL SAN Topology, and Exploit Chain Planning.
-* **Autonomous Evasion**: Dynamic User-Agent rotation, adaptive rate-limiting back-off against WAFs (F5, Cloudflare), and stealth randomized socket port scanning.
-* **Stateful Cloud Resiliency**: Auto-provisioning MySQL persistence layer rescuing ephemeral container storage restarts seamlessly.
-
-🔗 **Quick Access:**
-* 🖥️ **Live Production Platform:** [webanalyzer.c4softwarestudio.com](https://webanalyzer.c4softwarestudio.com/)
-* ⚡ **Live REST API Engine:** [webanalyzer-api.onrender.com](https://webanalyzer-api.onrender.com)
-* 📝 **Deep-Dive Engineering Publication:** [Read on Medium (Top Ranked)](https://medium.com/@frkndncr/webanalyzer-next-gen-domain-reconnaissance-vulnerability-scanner-94fe899a64d1)
-* 📦 **Install via PyPI:** `pip install webanalyzer-security`
+* 🌐 **Live Demo:** [webanalyzer.c4softwarestudio.com](https://webanalyzer.c4softwarestudio.com/) • 📦 **PyPI:** [`webanalyzer-security`](https://pypi.org/project/webanalyzer-security/) • 📝 **Medium:** [Architecture Deep Dive](https://medium.com/@frkndncr/webanalyzer-next-gen-domain-reconnaissance-vulnerability-scanner-94fe899a64d1)
 
 ---
 
